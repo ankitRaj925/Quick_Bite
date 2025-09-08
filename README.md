@@ -73,11 +73,9 @@ An **Admin Panel** is available to manage orders and menu items efficiently.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 
-
 ---
 
 ## 📁 Project Structure
-
 
 ```
 Quick_Bite
@@ -101,7 +99,7 @@ Quick_Bite
 └── README.md
 ```
 
-
+---
 
 ## ⚙️ Installation
 
@@ -139,6 +137,7 @@ cd ../admin
 npm start
 ```
 
+---
 
 ## 🤝 Contributing
 
@@ -162,3 +161,12 @@ Contributions are welcome!
     ```
 
 5. Open a Pull Request 🎉
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](./LICENSE).
+
+
+
